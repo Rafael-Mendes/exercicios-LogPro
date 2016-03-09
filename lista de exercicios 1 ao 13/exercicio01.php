@@ -7,4 +7,4 @@ $Numero2 = trim(fgets(STDIN));
 
 $resultado = $Numero + $Numero2;
 
-print "\nSua soma deu o resultado = $resultado";
+print "\nSua soma deu o resultado= ".$resultado;
